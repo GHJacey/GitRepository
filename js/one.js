@@ -1,0 +1,1 @@
+alert("我是通过.gitignore修改后的one.js")
